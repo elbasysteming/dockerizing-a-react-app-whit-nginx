@@ -1,9 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
 1.- See all running containers
 
 ### `docker ps`
@@ -25,6 +19,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `docker images`
 
 I learned it on the jsramblings blog.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
 
 ## In the project directory, you can run:
 
