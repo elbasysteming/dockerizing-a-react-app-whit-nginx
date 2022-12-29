@@ -4,6 +4,31 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+1.- See all running containers
+
+### `docker ps`
+
+2.- Stop the previous container (Copy Name or Container ID of your container)
+
+### `docker stop <container name|id>`
+
+3.- Next, let's build the image and run it
+
+### `docker build . -t dockerized-react`
+
+4.- Notice we're now mapping port 80 inside the container to port 3000 on the host machine
+
+### `docker run -p 3000:80 -d dockerized-react`
+
+5.- Check the image was created
+
+### `docker images`
+
+I learned it on the jsramblings blog.
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
