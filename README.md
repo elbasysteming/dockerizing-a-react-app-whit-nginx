@@ -4,7 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-
 1.- See all running containers
 
 ### `docker ps`
@@ -27,9 +26,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 I learned it on the jsramblings blog.
 
-
-
-In the project directory, you can run:
+## In the project directory, you can run:
 
 ### `npm start`
 
