@@ -11,7 +11,3 @@
 #### 3.- Notice we're now mapping port 80 inside the container to port 3000 on the host machine
 
 ### `docker run -p 3000:80 -d dockerized-react`
-
-#### 4.- Check the image was created
-
-### `docker images`
